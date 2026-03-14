@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Outfit", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --color-blue-500: #3b82f6;
+  --color-blue-600: #2563eb;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    font-size: 16px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    font-weight: 400;
+    letter-spacing: -0.011em;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    letter-spacing: -0.03em;
+    font-weight: 700;
+  }
+
+  h1 {
+    font-weight: 800;
+    line-height: 1.05;
+  }
+
+  h2 {
+    font-weight: 700;
+    line-height: 1.15;
+  }
+
+  /* Futuristic mono styling */
+  code, .font-mono {
+    font-family: var(--font-mono);
+    letter-spacing: 0.02em;
+    font-weight: 500;
+  }
+
+  /* Selection styling for premium feel */
+  ::selection {
+    background-color: var(--color-blue-500);
+    color: white;
+  }
+}

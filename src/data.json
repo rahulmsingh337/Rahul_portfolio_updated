@@ -1,0 +1,219 @@
+{
+  "basics": {
+    "name": "Rahul Singh",
+    "title": "SAP ABAP Consultant",
+    "summary": "As an experienced professional in S/4 HANA implementation and conversion, I possess in-depth knowledge of ABAP on HANA development and have experience building Web dynpro, CDS views, AMDP, and other code push-down techniques. I am well-versed in the architecture of HANA with deployment options and have a comprehensive understanding of in-memory concepts. With my expertise in analytic and calculation views, I possess a good learning attitude and am a meticulous team player.",
+    "location": "Noida, Uttar Pradesh",
+    "email": "rs58598@gmail.com",
+    "phone": "+918989805836",
+    "linkedin": "https://www.linkedin.com/in/rahul-singh-a7793916b/",
+    "birthDate": "1999/04/20"
+  },
+  "experience": [
+    {
+      "company": "Accenture Limited",
+      "role": "Software Developer Lead",
+      "dates": "2025/12 – Present",
+      "location": "Noida",
+      "bullets": [
+        "Used the ABAP Runtime analysis, while executing, SQL Trace and System Dump Analysis to analyse and improve Runtime performance of the existing ABAP programs.",
+        "Usage of correct BAPIs for the migration data to its master tables.",
+        "Worked on latest coding techniques for SAP ABAP 7.5.",
+        "Created various Utilities in different functional modules which are Infosys certified and SAP certified also.",
+        "Integration of SAP with various external APIs."
+      ]
+    },
+    {
+      "company": "INFOSYS Private Limited",
+      "role": "SAP ABAP CONSULTANT",
+      "dates": "2021/05 – 2025/12",
+      "location": "Noida",
+      "bullets": [
+        "Excellent contributor to any project team and possesses excellent communication, presentation, and problem-solving skills.",
+        "Involved in interacting with clients and understanding various client requirements and was supporting the functional team regarding the technical requirement and my responsibilities included coding, testing, deployment, quality management and documentation.",
+        "Experience in Report programming - Classical, Interactive and ALV.",
+        "Experience in interface programming including Proxies, RFC functional Call and Idocs, web dynpro.",
+        "Experience in designing layout and programming in Smart forms and Adobe forms.",
+        "Worked on Data Dictionary concepts."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "AMS Track Lead",
+      "dates": "2022/08 – 2025/12",
+      "stack": ["SAP ABAP", "Debugging", "POC"],
+      "bullets": [
+        "Helped team in complex technical issues and provided KT for advanced debugging skills.",
+        "Submitted POC for new projects and joined design discussion for various projects to check feasibility and best possible solutions.",
+        "Managed to deliver all the projects/Enhancement without any major escalation.",
+        "Joined Critical calls with user/business for P1/P2."
+      ]
+    },
+    {
+      "title": "Creation of New Output type",
+      "dates": "2024/02 – 2024/05",
+      "stack": ["SAP ABAP", "Email Automation", "BOL"],
+      "bullets": [
+        "Led assessment and enhancement of US email automation for BOL and packing slip outputs.",
+        "Implemented changes to different output form to consolidate multiple PO's/DN's into a single document when only one stop is present."
+      ]
+    },
+    {
+      "title": "LT03 Enhancement and Implementation project",
+      "dates": "2023/11 – 2024/01",
+      "stack": ["SAP ABAP", "LT03", "POC"],
+      "bullets": [
+        "Led solution development for a challenge with the LT03 transaction code in SAP, creating a customized transaction code to address limitations.",
+        "Conducted thorough analysis, proposed solution, and executed Proof of Concept.",
+        "Presented prototype, addressed client concerns, and secured approval.",
+        "Successfully implemented solution, receiving client appreciation for its efficacy."
+      ]
+    },
+    {
+      "title": "COPA report Reconciliation",
+      "dates": "2023/09 – 2023/12",
+      "stack": ["SAP ABAP", "COPA", "FI"],
+      "bullets": [
+        "This report will fetch the frozen index and user from the background job, posting date provided in selection screen and calculate FI, COPA, Statistical value."
+      ]
+    },
+    {
+      "title": "Traceablity report",
+      "dates": "2024/08 – 2025/04",
+      "stack": ["SAP ABAP", "Reporting"],
+      "bullets": [
+        "To simplify business process or to gather summary data of order / delivery information, business user requested to develop new report."
+      ]
+    },
+    {
+      "title": "Smartshift project",
+      "dates": "2025/12 – Present",
+      "stack": ["Smartshift", "Automation"],
+      "bullets": [
+        "working with Smart shift team to develop the automation tool which help to enhance the business activities."
+      ]
+    }
+  ],
+  "skills": [
+    {"name": "SAP ABAP", "level": 4},
+    {"name": "SAP UI5", "level": 4},
+    {"name": "BRF Plus", "level": 3},
+    {"name": "ALV / SALV", "level": 5},
+    {"name": "SAP HANA", "level": 3},
+    {"name": "SAP FICO", "level": 4},
+    {"name": "ALE IDocs", "level": 4},
+    {"name": "SAP Fiori", "level": 3}
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology",
+      "institution": "Vellore Institute of Technology",
+      "location": "Vellore",
+      "dates": "2016 – 2020"
+    },
+    {
+      "degree": "Intermediate",
+      "institution": "DAV PUBLIC SCHOOL",
+      "location": "DUDHICUHA",
+      "dates": "2014 – 2016"
+    },
+    {
+      "degree": "Matriculation",
+      "institution": "DAV PUBLIC SCHOOL",
+      "location": "CWS JAYANT",
+      "dates": "2002 – 2014"
+    }
+  ],
+  "awards": [
+    {
+      "title": "UNIT RISE Award",
+      "organization": "INFOSYS Private Limited",
+      "details": "Received 5 Unit Rise Award within the SAP unit in recognition of outstanding work and delivery of exceptional results."
+    },
+    {
+      "title": "Best performer IN EASSAP",
+      "organization": "INFOSYS Private Limited",
+      "details": "Received the best performer Award in the for exceptional performance in the EASSAP UNIT."
+    },
+    {
+      "title": "INSTA REWARDS",
+      "organization": "INFOSYS Private Limited",
+      "details": "Received 16 consecutive Insta Rewards for consistently demonstrating commitment and delivering exceptional results."
+    },
+    {
+      "title": "LEO education",
+      "organization": "DON BOSCO school",
+      "details": "Founder of LEO education and collaborates with DON BOSCO School, Vellore for going to Slum areas to teach the students."
+    },
+    {
+      "title": "Ace COE performer in project",
+      "organization": "INFOSYS Private Limited",
+      "details": "Received the ACE COE performer Award in the for exceptional performance in the EASSAP UNIT."
+    },
+    {
+      "title": "EDUREKA",
+      "organization": "INFOSYS Private Limited",
+      "details": ""
+    }
+  ],
+  "organizations": [
+    {
+      "name": "LEO Club",
+      "role": "PUBLICITY HEAD",
+      "location": "Vellore, Tamil Nadu",
+      "details": "We encourage youths to develop leadership qualities by participating in social service activities."
+    }
+  ],
+  "interests": ["Cricket", "Drawing", "Dance", "Watching movies", "Coding", "Travelling"],
+  "languages": ["English", "Hindi", "Bhojpuri"],
+  "achievements": [
+    {
+      "title": "5 Unit Rise Award",
+      "context": "SAP unit recognition for outstanding work",
+      "image": "/images/ach-unit-rise.png"
+    },
+    {
+      "title": "16 Consecutive Insta Rewards",
+      "context": "Consistent commitment and exceptional results",
+      "image": "/images/ach-insta-rewards.png"
+    },
+    {
+      "title": "Founder of LEO Education",
+      "context": "Collaborated with Don Bosco School to teach in slum areas",
+      "image": "/images/ach-leo-edu.png"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "SAP S/4HANA Technical Professional",
+      "issuer": "Infosys",
+      "image": "/images/cert-sap-tech.png"
+    },
+    {
+      "title": "SAP S/4HANA Functional Professional",
+      "issuer": "Infosys",
+      "image": "/images/cert-sap-func.png"
+    },
+    {
+      "title": "COE ACE - RISE Awards",
+      "issuer": "Infosys EASSAP",
+      "image": "/images/cert-coe-ace.png"
+    },
+    {
+      "title": "Rookie of the Quarter",
+      "issuer": "Infosys RISE",
+      "image": "/images/cert-rookie.png"
+    },
+    {
+      "title": "Eureka Award",
+      "issuer": "Infosys EASSAP",
+      "image": "/images/cert-eureka.png"
+    },
+    {
+      "title": "Insta Award - API Development",
+      "issuer": "Infosys",
+      "image": "/images/cert-insta-api.png"
+    }
+  ]
+}
